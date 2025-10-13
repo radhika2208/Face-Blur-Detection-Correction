@@ -80,7 +80,7 @@ Implemented Three Apis:-
 
 ```
 
-![](https://github.com/radhika2208/Face-Blur-Detection-Correction/media/screenshots/uploadimageapi.png)
+![](media/screenshots/uploadimageapi.png)
 
 ### 2) Face Detection & Blur Analysis  
 **Endpoint:** `/api/faceDetectionAndBlurAnalysis/`  
