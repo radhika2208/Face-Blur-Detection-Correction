@@ -80,7 +80,7 @@ Implemented Three Apis:-
 
 ```
 
-![](face_blur_api/media/screenshots/Screenshot 2025-10-13 at 13.08.25.png)
+![](./media/screenshots/Screenshot 2025-10-13 at 13.08.25.png)
 
 ### 2) Face Detection & Blur Analysis  
 **Endpoint:** `/api/faceDetectionAndBlurAnalysis/`  
