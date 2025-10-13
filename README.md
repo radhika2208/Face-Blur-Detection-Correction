@@ -125,7 +125,7 @@ If the face is blurry, the API automatically generates and returns a **corrected
 }
 
 ```
-![](media/screenshots/Screenshot 2025-10-13 at 13.09.34.png)
+![](media/screenshots/analyseapi.png)
 
 ### 3) Result Report Retrieval API
 **Endpoint:** `/api/getAllDetectionsAndCorrections/`  
@@ -156,13 +156,13 @@ No Param
 ]
 
 ```
-![](media/screenshots/Screenshot 2025-10-13 at 13.08.55.png)
+![](media/screenshots/getallrequestapi.png)
 
 ---
 
 - The HTML UI 
-![](media/screenshots/Screenshot 2025-10-13 at 13.07.02.png)
-![](media/screenshots/Screenshot 2025-10-13 at 13.50.56.png)
+![](media/screenshots/uiuploadanalyze.png)
+![](media/screenshots/uishowhistory.png)
 
 ---
 
